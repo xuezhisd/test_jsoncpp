@@ -1,0 +1,4 @@
+/data-sdc/data/xuezhi.zhang/Softwares/clion-2017.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /data-sdc/data/xuezhi.zhang/CLionProjects/test_jsoncpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data-sdc/data/xuezhi.zhang/CLionProjects/test_jsoncpp/cmake-build-debug
