@@ -9,7 +9,7 @@
 
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
-    std::string fname = "/home/users/xuezhi.zhang/data-sdc/CLionProjects/test_jsoncpp/config.json";
+    std::string fname = "./config.json";
     Json::Reader reader;
     Json::Value root;
     std::ifstream is;
